@@ -1,30 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+I always told my students to solve URI Online Judge exercises, but I never did many exercises there. In this "100 Days Code" challenge, I promised myself that I will solve all the "beginner exercises" (which I recommend for students). There are currently 303 exercises, so I will try to solve 3 exercises every day to complete my goal.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 0: October 01, 2019
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I will do all the exercises, from the easiest to the hardest from URI Online Judge. For now, it's very easy! Just exercises with basic math operations.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Link to work:** 
+[Day 1 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day1.ipynb)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: October 02, Wednesday
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: I've gone through exercises on URI Online Judge.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Another quiet day. However, I noticed that some exercises need more attention when reading the description.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+[Day 2 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day2.ipynb)
+
