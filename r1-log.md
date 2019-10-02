@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Márcio de Carvalho Saraiva]
+# #100DaysOfCode Log - [Márcio de Carvalho Saraiva]
 
 Click [here](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day1.ipynb) to see the log of my #100DaysOfCode challenge. Started on [October 01, Tuesday, 2019].
 
