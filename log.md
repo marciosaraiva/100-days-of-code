@@ -20,3 +20,12 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Link(s) to work**
 [Day 2 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day2.ipynb)
 
+
+### Day 3: October 03, Wednesday
+
+**Today's Progress**: More 4 exercises.
+
+**Thoughts** Today I did 4 exercises because if I do only 3 exercises every day I will not complete the challenge in 100 days.
+
+**Link(s) to work**
+[Day 3 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day3.ipynb)
