@@ -29,3 +29,12 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 **Link(s) to work**
 [Day 3 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day3.ipynb)
+
+### Day 4: October 04, Wednesday
+
+**Today's Progress**: I kept doing URI exercises.
+
+**Thoughts** Finally I started asking questions I never asked. It's getting nicer.
+
+**Link(s) to work**
+[Day 4 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day4.ipynb)
