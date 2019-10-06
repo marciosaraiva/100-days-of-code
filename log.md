@@ -38,3 +38,22 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 **Link(s) to work**
 [Day 4 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day4.ipynb)
+
+### Day 5: October 06, Sunday
+
+**Today's Progress**: Some exercises on physics. Very cool.
+
+**Thoughts** I traveled and I forgot the computer at home. That's why I was late one day.
+
+**Link(s) to work**
+[Day 5 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day5.ipynb)
+
+### Day 6: October 06, Sunday
+
+**Today's Progress**: I did today's exercises and yesterday's exercises.
+
+**Thoughts** I really don't even remember Bhaskara's formula.
+
+**Link(s) to work**
+[Day 6 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day6.ipynb)
+
