@@ -57,3 +57,11 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Link(s) to work**
 [Day 6 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day6.ipynb)
 
+### Day 7: October 07, Monday
+
+**Today's Progress**: In all exercises I used conditional structures and in 1 exercise I utilized a dictionary.
+
+**Thoughts** I started the day doing the exercises. Very good for "warming up" the mind.
+
+**Link(s) to work**
+[Day 7 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day7.ipynb)
