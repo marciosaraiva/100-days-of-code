@@ -65,3 +65,12 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 **Link(s) to work**
 [Day 7 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day7.ipynb)
+
+### Day 8: October 08, Tuesday
+
+**Today's Progress**: Today I did 3 exercises using lists, functions and conditional structures.
+
+**Thoughts** I completed my first week in the challenge!
+
+**Link(s) to work**
+[Day 8 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day8.ipynb)
