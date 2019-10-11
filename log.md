@@ -92,4 +92,13 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** 10 days!
 
 **Link(s) to work:**
-[Day 9 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day9.ipynb)
+[Day 10 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day10.ipynb)
+
+### Day 11: October 11, Thursday
+
+**Today's Progress:** Exercises about selection and repetition
+
+**Thoughts:** Today is my birthday, and I'm very happy to be able to continue this challenge and all is going well.
+
+**Link(s) to work:**
+[Day 11 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day11.ipynb)
