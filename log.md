@@ -94,7 +94,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Link(s) to work:**
 [Day 10 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day10.ipynb)
 
-### Day 11: October 11, Thursday
+### Day 11: October 11, Friday
 
 **Today's Progress:** Exercises about selection and repetition
 
@@ -102,3 +102,23 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 **Link(s) to work:**
 [Day 11 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day11.ipynb)
+
+
+### Day 12: October 12, Saturday
+
+**Today's Progress:** Exercises about dates and numbers
+
+**Thoughts:** It's hard to remember to do programming exercises on Saturday.
+
+**Link(s) to work:**
+[Day 12 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day12.ipynb)
+
+
+### Day 13: October 13, Sunday
+
+**Today's Progress:** Exercises about even, odd, negative and positive numbers
+
+**Thoughts:** Good thing the exercises were easy. No one deserves hard work on Sunday! kkk.
+
+**Link(s) to work:**
+[Day 13 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day13.ipynb)
