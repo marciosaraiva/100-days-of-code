@@ -77,7 +77,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 ### Day 9: October 10, Thursday
 
-**Today's Progress:** Exercises about time
+**Today's Progress:** Exercises about time.
 
 **Thoughts:** I did some exercises yesterday, but forgot to put in git. 
 
@@ -87,7 +87,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 ### Day 10: October 10, Thursday
 
-**Today's Progress:** Exercises using conditional structures
+**Today's Progress:** Exercises using conditional structures.
 
 **Thoughts:** 10 days!
 
@@ -96,7 +96,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 ### Day 11: October 11, Friday
 
-**Today's Progress:** Exercises about selection and repetition
+**Today's Progress:** Exercises about selection and repetition.
 
 **Thoughts:** Today is my birthday, and I'm very happy to be able to continue this challenge and all is going well.
 
@@ -106,7 +106,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 ### Day 12: October 12, Saturday
 
-**Today's Progress:** Exercises about dates and numbers
+**Today's Progress:** Exercises about dates and numbers.
 
 **Thoughts:** It's hard to remember to do programming exercises on Saturday.
 
@@ -116,9 +116,18 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 ### Day 13: October 13, Sunday
 
-**Today's Progress:** Exercises about even, odd, negative and positive numbers
+**Today's Progress:** Exercises about even, odd, negative and positive numbers.
 
 **Thoughts:** Good thing the exercises were easy. No one deserves hard work on Sunday! kkk.
 
 **Link(s) to work:**
 [Day 13 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day13.ipynb)
+
+### Day 14: October 14, Monday
+
+**Today's Progress:** Exercises about repetition and intervals.
+
+**Thoughts:** Good exercises to practice the command "for".
+
+**Link(s) to work:**
+[Day 14 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day14.ipynb)
