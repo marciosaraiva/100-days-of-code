@@ -131,3 +131,12 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 **Link(s) to work:**
 [Day 14 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day14.ipynb)
+
+### Day 15: October 15, Monday
+
+**Today's Progress:** Exercises about repetition and even or odd numbers.
+
+**Thoughts:** 2 weeks...For now the challenge is easier than I thought. However, it takes dedication!
+
+**Link(s) to work:**
+[Day 15 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day15.ipynb)
