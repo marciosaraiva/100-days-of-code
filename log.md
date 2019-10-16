@@ -75,7 +75,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Link(s) to work:**
 [Day 8 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day8.ipynb)
 
-### Day 9: October 10, Thursday
+### Day 9: October 10, Wednesday
 
 **Today's Progress:** Exercises about time.
 
@@ -132,7 +132,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Link(s) to work:**
 [Day 14 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day14.ipynb)
 
-### Day 15: October 15, Monday
+### Day 15: October 15, Tuesday
 
 **Today's Progress:** Exercises about repetition and even or odd numbers.
 
@@ -140,3 +140,12 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 **Link(s) to work:**
 [Day 15 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day15.ipynb)
+
+### Day 16: October 16, Wednesday
+
+**Today's Progress:** Exercises about lists and more exercises about repetition.
+
+**Thoughts:** I told some friends about the challenge. Will they participate too?
+
+**Link(s) to work:**
+[Day 16 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day16.ipynb)
