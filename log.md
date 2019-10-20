@@ -170,9 +170,19 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 
 ### Day 19: October 19, Saturday
+
 **Today's Progress:** Exercises about Ascending, Descending numbers and Passwords.
 
 **Thoughts:** Let's enjoy the Saturday night!
 
 **Link(s) to work:**
 [Day 19 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day19.ipynb)
+
+### Day 20: October 20, Sunday
+
+**Today's Progress:** Exercises about Quadrant, Divisions and Averange.
+
+**Thoughts:** Today the exercises were very fast. Very good :)
+
+**Link(s) to work:**
+[Day 20 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day20.ipynb)
