@@ -84,7 +84,6 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Link(s) to work:**
 [Day 9 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day9.ipynb)
 
-
 ### Day 10: October 10, Thursday
 
 **Today's Progress:** Exercises using conditional structures.
@@ -149,3 +148,31 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 **Link(s) to work:**
 [Day 16 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day16.ipynb)
+
+
+### Day 17: October 17, Thursday
+
+**Today's Progress:** More 3 exercises.
+
+**Thoughts:** I made the code on the correct day, but forgot to upload it.
+
+**Link(s) to work:**
+[Day 17 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day17.ipynb)
+
+### Day 18: October 18, Friday
+
+**Today's Progress:** Exercises about sequences.
+
+**Thoughts:** I went to a party and forgot about the challenge. Excuse me!
+
+**Link(s) to work:**
+[Day 18 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day18.ipynb)
+
+
+### Day 19: October 19, Saturday
+**Today's Progress:** Exercises about Ascending, Descending numbers and Passwords.
+
+**Thoughts:** Let's enjoy the Saturday night!
+
+**Link(s) to work:**
+[Day 19 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day19.ipynb)
