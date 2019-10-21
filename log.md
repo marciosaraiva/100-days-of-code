@@ -186,3 +186,12 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 **Link(s) to work:**
 [Day 20 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day20.ipynb)
+
+### Day 21: October 21, Monday
+
+**Today's Progress:** Repetitions exercises.
+
+**Thoughts:** 21 days! Now, I have a new habit!
+
+**Link(s) to work:**
+[Day 21 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day21.ipynb)
