@@ -195,3 +195,12 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 **Link(s) to work:**
 [Day 21 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day21.ipynb)
+
+### Day 22: October 22, Tuesday
+
+**Today's Progress:** Switch case, Repetition and Conditional structures.
+
+**Thoughts:** I think I need to organize my repository, it's getting full of files.
+
+**Link(s) to work:**
+[Day 22 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day22.ipynb)
