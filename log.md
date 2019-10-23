@@ -204,3 +204,13 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 **Link(s) to work:**
 [Day 22 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day22.ipynb)
+
+
+### Day 23: October 23, Wednesday
+
+**Today's Progress:** Exercises about sequences.
+
+**Thoughts:** I traveled but brought my computer.
+
+**Link(s) to work:**
+[Day 23 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day23.ipynb)
