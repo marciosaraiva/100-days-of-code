@@ -214,3 +214,39 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 **Link(s) to work:**
 [Day 23 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day23.ipynb)
+
+### Day 24: October 24, Thurday
+
+**Today's Progress:** Exercises about sequences again.
+
+**Thoughts:** This time, I traveled for 3 days and forgot the computer. (First day)
+
+**Link(s) to work:**
+[Day 24 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day24.ipynb)
+
+### Day 25: October 25, Wednesday
+
+**Today's Progress:** Exercises about sequences.
+
+**Thoughts:** This time, I traveled for 4 days and forgot the computer. (Second day)
+
+**Link(s) to work:**
+[Day 25 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day25.ipynb)
+
+### Day 26: October 26, Wednesday
+
+**Today's Progress:** Recursive functions.
+
+**Thoughts:** This time, I traveled for 4 days and forgot the computer. (Third day)
+
+**Link(s) to work:**
+[Day 26 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day26.ipynb)
+
+### Day 27: October 27, Sunday
+
+**Today's Progress:** Exercises about consecutive numbers and a Ad-hoc problem.
+
+**Thoughts:** The ad-hoc problem can be a real problem.
+
+**Link(s) to work:**
+[Day 27 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day27.ipynb)
