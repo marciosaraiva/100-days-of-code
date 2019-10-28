@@ -250,3 +250,12 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 **Link(s) to work:**
 [Day 27 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day27.ipynb)
+
+### Day 28: October 28, Monday
+
+**Today's Progress:** Functions and arrays.
+
+**Thoughts:** I have managed to surpass the number of resolved questions I have done with Java in the past.
+
+**Link(s) to work:**
+[Day 28 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day28.ipynb)
