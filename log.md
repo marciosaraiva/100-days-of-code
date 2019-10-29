@@ -259,3 +259,13 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 **Link(s) to work:**
 [Day 28 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day28.ipynb)
+
+
+### Day 29: October 29, Tuesday
+
+**Today's Progress:** More arrays questions.
+
+**Thoughts:** Using arrays in Python is very good.
+
+**Link(s) to work:**
+[Day 29 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day29.ipynb)
