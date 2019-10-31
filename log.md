@@ -9,7 +9,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** I will do all the exercises, from the easiest to the hardest from URI Online Judge. For now, it's very easy! Just exercises with basic math operations.
 
 **Link to work:** 
-[Day 1 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day1.ipynb)
+[Day 1 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/1-20/Day1.ipynb)
 
 ### Day 2: October 02, Wednesday
 
@@ -18,7 +18,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** Another quiet day. However, I noticed that some exercises need more attention when reading the description.
 
 **Link(s) to work:**
-[Day 2 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day2.ipynb)
+[Day 2 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/1-20/Day2.ipynb)
 
 
 ### Day 3: October 03, Wednesday
@@ -28,7 +28,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** Today I did 4 exercises because if I do only 3 exercises every day I will not complete the challenge in 100 days.
 
 **Link(s) to work:**
-[Day 3 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day3.ipynb)
+[Day 3 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/1-20/Day3.ipynb)
 
 ### Day 4: October 04, Wednesday
 
@@ -37,7 +37,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** Finally I started asking questions I never asked. It's getting nicer.
 
 **Link(s) to work:**
-[Day 4 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day4.ipynb)
+[Day 4 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/1-20/Day4.ipynb)
 
 ### Day 5: October 06, Sunday
 
@@ -46,7 +46,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** I traveled and I forgot the computer at home. That's why I was late one day.
 
 **Link(s) to work:**
-[Day 5 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day5.ipynb)
+[Day 5 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/1-20/Day5.ipynb)
 
 ### Day 6: October 06, Sunday
 
@@ -55,7 +55,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** I really don't even remember Bhaskara's formula.
 
 **Link(s) to work:**
-[Day 6 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day6.ipynb)
+[Day 6 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/1-20/Day6.ipynb)
 
 ### Day 7: October 07, Monday
 
@@ -64,7 +64,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** I started the day doing the exercises. Very good for "warming up" the mind.
 
 **Link(s) to work:**
-[Day 7 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day7.ipynb)
+[Day 7 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/1-20/Day7.ipynb)
 
 ### Day 8: October 08, Tuesday
 
@@ -73,7 +73,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** I completed my first week in the challenge!
 
 **Link(s) to work:**
-[Day 8 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day8.ipynb)
+[Day 8 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/1-20/Day8.ipynb)
 
 ### Day 9: October 10, Wednesday
 
@@ -82,7 +82,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** I did some exercises yesterday, but forgot to put in git. 
 
 **Link(s) to work:**
-[Day 9 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day9.ipynb)
+[Day 9 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/1-20/Day9.ipynb)
 
 ### Day 10: October 10, Thursday
 
@@ -91,7 +91,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** 10 days!
 
 **Link(s) to work:**
-[Day 10 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day10.ipynb)
+[Day 10 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/1-20/Day10.ipynb)
 
 ### Day 11: October 11, Friday
 
@@ -100,7 +100,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** Today is my birthday, and I'm very happy to be able to continue this challenge and all is going well.
 
 **Link(s) to work:**
-[Day 11 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day11.ipynb)
+[Day 11 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/1-20/Day11.ipynb)
 
 
 ### Day 12: October 12, Saturday
@@ -110,7 +110,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** It's hard to remember to do programming exercises on Saturday.
 
 **Link(s) to work:**
-[Day 12 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day12.ipynb)
+[Day 12 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/1-20/Day12.ipynb)
 
 
 ### Day 13: October 13, Sunday
@@ -120,7 +120,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** Good thing the exercises were easy. No one deserves hard work on Sunday! kkk.
 
 **Link(s) to work:**
-[Day 13 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day13.ipynb)
+[Day 13 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/1-20/Day13.ipynb)
 
 ### Day 14: October 14, Monday
 
@@ -129,7 +129,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** Good exercises to practice the command "for".
 
 **Link(s) to work:**
-[Day 14 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day14.ipynb)
+[Day 14 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/1-20/Day14.ipynb)
 
 ### Day 15: October 15, Tuesday
 
@@ -138,7 +138,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** 2 weeks...For now the challenge is easier than I thought. However, it takes dedication!
 
 **Link(s) to work:**
-[Day 15 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day15.ipynb)
+[Day 15 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/1-20/Day15.ipynb)
 
 ### Day 16: October 16, Wednesday
 
@@ -147,7 +147,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** I told some friends about the challenge. Will they participate too?
 
 **Link(s) to work:**
-[Day 16 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day16.ipynb)
+[Day 16 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/1-20/Day16.ipynb)
 
 
 ### Day 17: October 17, Thursday
@@ -157,7 +157,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** I made the code on the correct day, but forgot to upload it.
 
 **Link(s) to work:**
-[Day 17 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day17.ipynb)
+[Day 17 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/1-20/Day17.ipynb)
 
 ### Day 18: October 18, Friday
 
@@ -166,7 +166,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** I went to a party and forgot about the challenge. Excuse me!
 
 **Link(s) to work:**
-[Day 18 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day18.ipynb)
+[Day 18 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/1-20/Day18.ipynb)
 
 
 ### Day 19: October 19, Saturday
@@ -176,7 +176,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** Let's enjoy the Saturday night!
 
 **Link(s) to work:**
-[Day 19 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day19.ipynb)
+[Day 19 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/1-20/Day19.ipynb)
 
 ### Day 20: October 20, Sunday
 
@@ -185,7 +185,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** Today the exercises were very fast. Very good :)
 
 **Link(s) to work:**
-[Day 20 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day20.ipynb)
+[Day 20 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/1-20/Day20.ipynb)
 
 ### Day 21: October 21, Monday
 
@@ -194,7 +194,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** 21 days! Now, I have a new habit!
 
 **Link(s) to work:**
-[Day 21 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day21.ipynb)
+[Day 21 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day21.ipynb)
 
 ### Day 22: October 22, Tuesday
 
@@ -203,7 +203,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** I think I need to organize my repository, it's getting full of files.
 
 **Link(s) to work:**
-[Day 22 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day22.ipynb)
+[Day 22 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day22.ipynb)
 
 
 ### Day 23: October 23, Wednesday
@@ -213,7 +213,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** I traveled but brought my computer.
 
 **Link(s) to work:**
-[Day 23 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day23.ipynb)
+[Day 23 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day23.ipynb)
 
 ### Day 24: October 24, Thurday
 
@@ -222,7 +222,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** This time, I traveled for 3 days and forgot the computer. (First day)
 
 **Link(s) to work:**
-[Day 24 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day24.ipynb)
+[Day 24 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day24.ipynb)
 
 ### Day 25: October 25, Wednesday
 
@@ -231,7 +231,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** This time, I traveled for 4 days and forgot the computer. (Second day)
 
 **Link(s) to work:**
-[Day 25 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day25.ipynb)
+[Day 25 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day25.ipynb)
 
 ### Day 26: October 26, Wednesday
 
@@ -240,7 +240,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** This time, I traveled for 4 days and forgot the computer. (Third day)
 
 **Link(s) to work:**
-[Day 26 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day26.ipynb)
+[Day 26 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day26.ipynb)
 
 ### Day 27: October 27, Sunday
 
@@ -249,7 +249,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** The ad-hoc problem can be a real problem.
 
 **Link(s) to work:**
-[Day 27 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day27.ipynb)
+[Day 27 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day27.ipynb)
 
 ### Day 28: October 28, Monday
 
@@ -258,8 +258,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** I have managed to surpass the number of resolved questions I have done with Java in the past.
 
 **Link(s) to work:**
-[Day 28 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day28.ipynb)
-
+[Day 28 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day28.ipynb)
 
 ### Day 29: October 29, Tuesday
 
@@ -268,4 +267,22 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** Using arrays in Python is very good.
 
 **Link(s) to work:**
-[Day 29 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/Day29.ipynb)
+[Day 29 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day29.ipynb)
+
+### Day 30: October 30, Wednesday
+
+**Today's Progress:** Exercises about arrays.
+
+**Thoughts:** I got tired of doing exercises with arrays, hopefully it will change soon.
+
+**Link(s) to work:**
+[Day 30 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day30.ipynb)
+
+### Day 31 October 31, Thursday
+
+**Today's Progress:** Exercises about Matrix.
+
+**Thoughts:** It's been a while since I've been doing exercises like this.
+
+**Link(s) to work:**
+[Day 31 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day31.ipynb)
