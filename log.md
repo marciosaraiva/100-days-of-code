@@ -278,7 +278,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Link(s) to work:**
 [Day 30 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day30.ipynb)
 
-### Day 31 October 31, Thursday
+### Day 31: October 31, Thursday
 
 **Today's Progress:** Exercises about Matrix.
 
@@ -286,3 +286,12 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 **Link(s) to work:**
 [Day 31 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day31.ipynb)
+
+### Day 32: October 32, Friday
+
+**Today's Progress:** More exercises about matrix.
+
+**Thoughts:** Good thing I was able to reuse yesterday's code. I saved a lot of time!
+
+**Link(s) to work:**
+[Day 32 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day32.ipynb)
