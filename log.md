@@ -295,3 +295,12 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 **Link(s) to work:**
 [Day 32 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day32.ipynb)
+
+### Day 33: October 33, Saturday
+
+**Today's Progress:** Matrix.
+
+**Thoughts:** Reuse is the key! 
+
+**Link(s) to work:**
+[Day 33 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day33.ipynb)
