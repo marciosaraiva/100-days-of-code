@@ -304,3 +304,12 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 **Link(s) to work:**
 [Day 33 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day33.ipynb)
+
+### Day 34: October 34, Saturday
+
+**Today's Progress:** Bidimensional Array
+
+**Thoughts:** Good thing there is the internet!
+
+**Link(s) to work:**
+[Day 34 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day34.ipynb)
