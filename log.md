@@ -305,7 +305,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Link(s) to work:**
 [Day 33 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day33.ipynb)
 
-### Day 34: October 34, Saturday
+### Day 34: October 34, Sunday
 
 **Today's Progress:** Bidimensional Array
 
@@ -313,3 +313,13 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 **Link(s) to work:**
 [Day 34 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day34.ipynb)
+
+### Day 35: October 35, Monday
+
+**Today's Progress:** Repetition and Bidimensional Array
+
+**Thoughts:** Love Mondays!
+
+**Link(s) to work:**
+[Day 35 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day35.ipynb)
+
