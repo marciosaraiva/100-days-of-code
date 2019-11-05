@@ -323,3 +323,11 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Link(s) to work:**
 [Day 35 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day35.ipynb)
 
+### Day 36: October 36, Tuesday
+
+**Today's Progress:** Repetition and Bidimensional Array
+
+**Thoughts:** Funny exercises :)
+
+**Link(s) to work:**
+[Day 36 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day36.ipynb)
