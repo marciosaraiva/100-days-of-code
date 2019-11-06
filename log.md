@@ -332,7 +332,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Link(s) to work:**
 [Day 36 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day36.ipynb)
 
-### Day 37: October 37, Tuesday
+### Day 37: October 37, Wednesday
 
 **Today's Progress:** Repetition and Bidimensional Array
 
