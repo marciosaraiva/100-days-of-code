@@ -375,4 +375,13 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Thoughts:** Today was very easy.
 
 **Link(s) to work:**
-[Day 41 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day41.ipynb)
+[Day 41 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/41-60/Day41.ipynb)
+
+### Day 42: October 42, Monday
+
+**Today's Progress:** Number and format manipulation
+
+**Thoughts:** They are simple but very important exercises.
+
+**Link(s) to work:**
+[Day 42 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/41-60/Day42.ipynb)
