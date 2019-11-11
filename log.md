@@ -358,3 +358,12 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 **Link(s) to work:**
 [Day 39 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day39.ipynb)
+
+### Day 40: October 40, Saturday
+
+**Today's Progress:** Ad-hoc problems inspired by Marvel and kids play.
+
+**Thoughts:** I understood the references 2 kkkk.
+
+**Link(s) to work:**
+[Day 40 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day40.ipynb)
