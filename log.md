@@ -385,3 +385,12 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 **Link(s) to work:**
 [Day 42 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/41-60/Day42.ipynb)
+
+### Day 43: October 43, Tuesday
+
+**Today's Progress:** More 3 exercises
+
+**Thoughts:** The bad is not doing exercises, it's having to do exercises kkkkk.
+
+**Link(s) to work:**
+[Day 43 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/41-60/Day43.ipynb)
