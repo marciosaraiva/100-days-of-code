@@ -403,3 +403,12 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 **Link(s) to work:**
 [Day 44 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/41-60/Day44.ipynb)
+
+### Day 45: October 45, Thursday
+
+**Today's Progress:** Problems about PRONATEC.
+
+**Thoughts:** Good problems to put in a high school test.
+
+**Link(s) to work:**
+[Day 45 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/41-60/Day45.ipynb)
