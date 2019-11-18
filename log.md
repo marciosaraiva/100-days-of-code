@@ -287,7 +287,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Link(s) to work:**
 [Day 31 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day31.ipynb)
 
-### Day 32: October 32, Friday
+### Day 32: November 01, Friday
 
 **Today's Progress:** More exercises about matrix.
 
@@ -296,7 +296,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Link(s) to work:**
 [Day 32 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day32.ipynb)
 
-### Day 33: October 33, Saturday
+### Day 33: November 02, Saturday
 
 **Today's Progress:** Matrix.
 
@@ -305,7 +305,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Link(s) to work:**
 [Day 33 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day33.ipynb)
 
-### Day 34: October 34, Sunday
+### Day 34: November 03, Sunday
 
 **Today's Progress:** Bidimensional Array
 
@@ -314,7 +314,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Link(s) to work:**
 [Day 34 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day34.ipynb)
 
-### Day 35: October 35, Monday
+### Day 35: November 04, Monday
 
 **Today's Progress:** Repetition and Bidimensional Array
 
@@ -323,7 +323,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Link(s) to work:**
 [Day 35 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day35.ipynb)
 
-### Day 36: October 36, Tuesday
+### Day 36: November 05, Tuesday
 
 **Today's Progress:** Repetition and Bidimensional Array
 
@@ -332,7 +332,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Link(s) to work:**
 [Day 36 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day36.ipynb)
 
-### Day 37: October 37, Wednesday
+### Day 37: November 06, Wednesday
 
 **Today's Progress:** Repetition and Bidimensional Array
 
@@ -341,7 +341,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Link(s) to work:**
 [Day 37 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day37.ipynb)
 
-### Day 38: October 38, Thursday
+### Day 38: November 07, Thursday
 
 **Today's Progress:** Ad-hoc problems
 
@@ -350,7 +350,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Link(s) to work:**
 [Day 38 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day38.ipynb)
 
-### Day 39: October 39, Friday
+### Day 39: November 08, Friday
 
 **Today's Progress:** Ad-hoc problems inspired by Game of Thrones
 
@@ -359,7 +359,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Link(s) to work:**
 [Day 39 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day39.ipynb)
 
-### Day 40: October 40, Saturday
+### Day 40: November 09, Saturday
 
 **Today's Progress:** Ad-hoc problems inspired by Marvel and kids play.
 
@@ -368,7 +368,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Link(s) to work:**
 [Day 40 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/21-40/Day40.ipynb)
 
-### Day 41: October 41, Sunday
+### Day 41: November 10, Sunday
 
 **Today's Progress:** 3 Beginner exercises.
 
@@ -377,7 +377,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Link(s) to work:**
 [Day 41 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/41-60/Day41.ipynb)
 
-### Day 42: October 42, Monday
+### Day 42: November 11, Monday
 
 **Today's Progress:** Number and format manipulation
 
@@ -386,7 +386,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Link(s) to work:**
 [Day 42 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/41-60/Day42.ipynb)
 
-### Day 43: October 43, Tuesday
+### Day 43: November 12, Tuesday
 
 **Today's Progress:** More 3 exercises
 
@@ -395,7 +395,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Link(s) to work:**
 [Day 43 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/41-60/Day43.ipynb)
 
-### Day 44: October 44, Wednesday
+### Day 44: November 13, Wednesday
 
 **Today's Progress:** Simulation and Ad-Hoc problems.
 
@@ -404,7 +404,7 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 **Link(s) to work:**
 [Day 44 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/41-60/Day44.ipynb)
 
-### Day 45: October 45, Thursday
+### Day 45: November 14, Thursday
 
 **Today's Progress:** Problems about PRONATEC.
 
@@ -412,3 +412,12 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 **Link(s) to work:**
 [Day 45 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/41-60/Day45.ipynb)
+
+### Day 46: November 15, Friday
+
+**Today's Progress:** Problems about time and sequences.
+
+**Thoughts:** I forgot to do the weekend exercises =/
+
+**Link(s) to work:**
+[Day 46 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/41-60/Day46.ipynb)
