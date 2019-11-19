@@ -421,3 +421,30 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 **Link(s) to work:**
 [Day 46 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/41-60/Day46.ipynb)
+
+### Day 47: November 16, Saturday
+
+**Today's Progress:** Exercises about Mathematics and Selection.
+
+**Thoughts:** I forgot to do the weekend exercises =/ [2]
+
+**Link(s) to work:**
+[Day 47 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/41-60/Day47.ipynb)
+
+### Day 48: November 17, Sunday
+
+**Today's Progress:** Exercises about Sequential, selection and repetition structure.
+
+**Thoughts:** I forgot to do the weekend exercises =/ [3]
+
+**Link(s) to work:**
+[Day 48 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/41-60/Day48.ipynb)
+
+### Day 49: November 18, Monday
+
+**Today's Progress:** Ad-hoc problems.
+
+**Thoughts:** Difficult exercises to do, especially feeling very sleepy!
+
+**Link(s) to work:**
+[Day 49 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/41-60/Day49.ipynb)
