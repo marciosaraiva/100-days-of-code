@@ -448,3 +448,22 @@ I always told my students to solve URI Online Judge exercises, but I never did m
 
 **Link(s) to work:**
 [Day 49 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/41-60/Day49.ipynb)
+
+### Day 50: November 19, Tuesday
+
+**Today's Progress:** More Ad-hoc problems.
+
+**Thoughts:** I got halfway through the 100 day code challenge!
+
+**Link(s) to work:**
+[Day 50 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/41-60/Day50.ipynb)
+
+
+### Day 51: November 20, Wednesday
+
+**Today's Progress:** More Ad-hoc problems 2.
+
+**Thoughts:** I like Ad-hoc problems.
+
+**Link(s) to work:**
+[Day 51 - Codes](https://github.com/marciosaraiva/Source-Codes-100-days-code/blob/master/41-60/Day51.ipynb)
